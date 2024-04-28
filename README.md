@@ -2,6 +2,11 @@
 
 # Author Bojun Liu
 
+# Login
+# localhost:3000/login
+# username:admin
+# password:admin
+
 # Issue
 Upload some commits but Github not allowed to upload more than 100mb.
 So I move previous repo into here (without webpack cache file, node_module and .next)
