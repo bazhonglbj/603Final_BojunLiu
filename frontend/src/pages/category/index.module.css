@@ -1,0 +1,12 @@
+.tableWrap {
+    overflow: auto;
+    height: calc(100% - 80px);
+  }
+
+  .content {
+    background-color: #fdfbfb;
+    border-radius: 16px;
+    padding: 32px;
+    height: calc(100% - 56px);
+    overflow: auto;
+  }
